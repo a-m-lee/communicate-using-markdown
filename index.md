@@ -1,5 +1,11 @@
 # This is a H1 header
 
+Sample PowerShell code
+
+```powershell
+Write-Host "Hello World!"
+```
+
 ## This is a H2 header
 
 ### This is a H3 header
